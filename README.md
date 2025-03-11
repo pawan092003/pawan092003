@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Lp3bZmioGFRfKO61Odjt1PNxlzD5Z3Pg/view?usp=sharing](https://drive.google.com/file/d/1Lp3bZmioGFRfKO61Odjt1PNxlzD5Z3Pg/view?usp=sharing)
 
-- ⚡ Fun fact **I think i passionate in E-Sports**
+- ⚡ Fun fact **🏆 My proudest moment? Fixing a bug that turned out to be a missing semicolon.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
